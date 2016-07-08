@@ -6,9 +6,9 @@ color:
   saturation: 0.5827060891315341
   rhythmicContrast: 0.2488355014938861
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
 name: My's Portfolio
