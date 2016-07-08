@@ -1,0 +1,14 @@
+layout_spectrum: 0.11528697516769171
+typography_spectrum: 0.606294882716611
+color:
+  brandStrength: 0.4895464372821152
+  lightness: 0.43724537221714854
+  saturation: 0.5827060891315341
+  rhythmicContrast: 0.2488355014938861
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: My's Portfolio
