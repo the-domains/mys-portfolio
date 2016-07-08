@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[My's Portfolio]]></title>
         <description><![CDATA[My's Portfolio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mys-portfolio/</link>
         <generator>The Grid</generator>
         <lastBuildDate>Fri, 08 Jul 2016 17:30:33 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://thegrid.ai/mys-portfolio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Five Four + Marvel Collection]]></title>
+            <description><![CDATA[<article><h1>Five Four + Marvel Collection</h1><p>Some comic book apparel can end up juvenile, but the new Five Four collaboration with Marvel is anything but. In celebration of the impending release of Avengers: Age of Ultron, the Five Four subscription menswear service finds subtlety in the generally loud graphic medium by using Marvel's famous roster of superheroes to inspire its April capsule.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c00f82bc7a96b03780b683692320bb03f3b031f2.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/style/five-four-marvel-collection</link>
+            <guid isPermaLink="false">420ed227-f74b-41e8-9f00-9611ab0954ee</guid>
+            <pubDate>Fri, 08 Jul 2016 17:30:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space]]></title>
             <description><![CDATA[<article><h1>Assignment of a Lifetime: Riding in a U-2 Spy Plane at the Edge of Space</h1><p>Back in 2010, San Francisco-based photographer Christopher Michel received a once-in-a-lifetime photo assignment from the US Navel Institute: to ride in the back seat of a U-2 spy plane at the "edge of space." At the plane's cruising and intelligence-gathering altitude of 70,000 feet above the ground, temperatures outside the plane fall to 70 degrees below zero.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/04f6c0633f5a485f90dde99e96cd653a67f86bd6.jpg"></article>]]></description>
